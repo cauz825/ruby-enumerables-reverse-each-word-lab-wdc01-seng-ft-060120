@@ -6,8 +6,3 @@ def reverse_each_word(string)
     words.reverse.join(" ")
   end
 end
-
-binding.pry
-
-
-
